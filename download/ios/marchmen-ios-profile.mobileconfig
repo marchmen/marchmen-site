@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>FullScreen</key><true/>
+      <key>IsRemovable</key><true/>
+      <key>Label</key><string>门店管理系统</string>
+      <key>PayloadDescription</key><string>门店管理系统 WebClip</string>
+      <key>PayloadDisplayName</key><string>门店管理系统</string>
+      <key>PayloadIdentifier</key><string>com.store.manager.webclip</string>
+      <key>PayloadOrganization</key><string>Marchmen</string>
+      <key>PayloadType</key><string>com.apple.webClip.managed</string>
+      <key>PayloadUUID</key><string>8A6B2C1D-9E3F-4A5B-8C7D-1E2F3A4B5C6D</string>
+      <key>PayloadVersion</key><integer>1</integer>
+      <key>Precomposed</key><true/>
+      <key>URL</key><string>https://marchmen.site/</string>
+    </dict>
+  </array>
+  <key>PayloadDescription</key><string>门店管理系统 iOS 安装描述文件</string>
+  <key>PayloadDisplayName</key><string>门店管理系统</string>
+  <key>PayloadIdentifier</key><string>com.store.manager.profile</string>
+  <key>PayloadOrganization</key><string>Marchmen</string>
+  <key>PayloadRemovalDisallowed</key><false/>
+  <key>PayloadType</key><string>Configuration</string>
+  <key>PayloadUUID</key><string>1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D</string>
+  <key>PayloadVersion</key><integer>1</integer>
+</dict>
+</plist>
